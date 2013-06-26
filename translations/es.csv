@@ -11,7 +11,7 @@
  is not a ledger,no es un libro de contabilidad
  is not active,no está activa
  is now the default Fiscal Year. \			Please refresh your browser for the change to take effect.,"Ahora es el Año Fiscal defecto. \ Por favor, actualiza tu navegador para que los cambios surtan efecto."
- or the BOM is cancelled or inactive,o la lista de materiales se cancela o inactivo
+ or the BOM is cancelled or inactive,o la lista de materiales está cancelada o inactiva
  should be same as that in ,debería ser la misma que en
  will become ,se convertirá
 """Company History""",&quot;Historia de la empresa&quot;
@@ -104,7 +104,7 @@
 >,&gt;
 >=,&gt; =
 A,La
-A Customer exists with same name,Un cliente que existe con el mismo nombre
+A Customer exists with same name,Existe un cliente con el mismo nombre
 A Lead with this email id should exist,Un cable con este correo electrónico de identificación debe existir
 A Product is shown on the website and is linked to an item.,Un producto se muestra en la página web y está vinculada a un elemento.
 "A Product or a Service that is bought, sold or kept in stock.","Un producto o un servicio que se compra, se vende o se mantienen en stock."
